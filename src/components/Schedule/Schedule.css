@@ -1,0 +1,30 @@
+.talks {
+    margin: 0;
+    padding: 0;
+}
+
+.talk {
+    border-top: 3px solid #ccc;
+    box-shadow: 0 10px 20px 0 rgba(233, 233, 233, 0.9);
+    padding: 20px;
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+.talk-title {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.talk-title:hover {
+    color: #0b9ed9;
+}
+
+.talk-date {
+    background-color: #0b9ed9;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+}

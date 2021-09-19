@@ -4,7 +4,7 @@
     "type": "Conferencia",
     "date": "Sep 23, 10:30",
     "place": "Sala Principal",
-    "image": "https://fepro.cs.buap.mx/2021/assets/img/eventos/default.png",
+    "image": "/talks/default.png",
     "speaker": "Adrián Alvarez Galicia",
     "description": "Con Nairda podemos programar de forma rápida y fácil tarjetas de desarrollo basadas en Arduino vía bluetooth desde dispositivos Android o IOS. A lo largo de la plática abordaremos el cómo nació el proyecto y cómo a lo largo de los años ha ido creciendo tanto en aspectos técnicos como en objetivos y el equipo de trabajo gracias a distintos momentos y eventos como en su momento lo fue la FePro."
   },
@@ -13,7 +13,7 @@
     "type": "Conferencia",
     "date": "Sep 23, 16:00 PM",
     "place": "Sala Principal",
-    "image": "https://fepro.cs.buap.mx/2021/assets/img/eventos/default.png",
+    "image": "/talks/default.png",
     "speaker": "Dr. Nicolás Arrioja",
     "description": "Conoceremos en qué consiste la Inteligencia Artificial y descartaremos algunos mitos en relación a ella. Además, cómo afecta y va a afectar al campo laboral y la importancia de conocerla sin importar nuestra área de trabajo. Por último, sus aplicaciones en la vida cotidiana, en las empresas y en otras áreas del quehacer humano."
   },
@@ -22,7 +22,7 @@
     "type": "Taller",
     "date": "Sep 23, 16:00 PM",
     "place": "Sala 1",
-    "image": "https://fepro.cs.buap.mx/2021/assets/img/eventos/default.png",
+    "image": "/talks/default.png",
     "speaker": "Alex Arriaga",
     "description": "En este taller aprenderemos cómo crear aplicaciones de una sola página (SPA por sus siglas en inglés), que incluyan principios y recomendaciones de accesibilidad web. Nos enfocaremos en ejemplos prácticos con React que ejemplifiquen cómo hacer que nuestras aplicaciones sean accesibles y comprensibles para la mayor cantidad de usuarios."
   },
@@ -31,7 +31,7 @@
     "type": "Taller",
     "date": "Sep 24, 10:00 AM",
     "place": "Sala 2",
-    "image": "https://fepro.cs.buap.mx/2021/assets/img/eventos/default.png",
+    "image": "/talks/default.png",
     "speaker": "Alex Arriaga",
     "description": "Huawei Mobile Services (HMS Core) ofrece una amplia gama de capacidades abiertas de dispositivos y de nube, que permiten un desarrollo eficiente, un rápido crecimiento y una monetización flexible. Gracias a esto, los desarrolladores de todo el mundo pueden generar innovaciones revolucionarias."
   }

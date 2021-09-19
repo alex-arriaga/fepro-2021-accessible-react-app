@@ -3,7 +3,7 @@ import talks from "./data/talks.json"
 
 function App() {
     return (
-        <div className="App">
+        <div className="App container mt-4">
             <Schedule talks={talks}/>
         </div>
     );
