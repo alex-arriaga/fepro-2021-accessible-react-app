@@ -1,27 +1,31 @@
 import "./Schedule.css"
+import {Fragment} from "react";
 
 function Schedule({talks}) {
     return (
-        <ul className="talks">
-            {talks.map(talk => (
+        <Fragment>
+            <h1 className="mt-2 mb-4">Programa de conferencias</h1>
+            <ul className="talks">
+                {talks.map(talk => (
 
-                <li className="talk">
-                    <div className="row">
-                        <div className="col-2">
-                            <img src={talk.image} className="img-fluid"/>
-                        </div>
-                        <div className="col-10">
+                    <li className="talk">
+                        <div className="row">
+                            <div className="col-2">
+                                <img src={talk.image} className="img-fluid" alt=""/>
+                            </div>
+                            <div className="col-10">
                             <span className="talk-date">
                                 {talk.date}
                             </span>
-                            <a href="#"><h2 className="mt-3 talk-title">{talk.title}</h2></a>
-                            <p className="mb-0">{talk.description}</p>
+                                <a href="#"><h2 className="mt-3 talk-title">{talk.title}</h2></a>
+                                <p className="mb-0">{talk.description}</p>
+                            </div>
                         </div>
-                    </div>
-                </li>
+                    </li>
 
-            ))}
-        </ul>
+                ))}
+            </ul>
+        </Fragment>
     );
 }
 
