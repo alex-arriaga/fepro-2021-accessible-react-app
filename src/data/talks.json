@@ -1,5 +1,6 @@
 [
   {
+    "id": "t1",
     "title": "Nairda Robot programming: Una nueva forma de programar",
     "type": "Conferencia",
     "date": "Sep 23, 10:30",
@@ -9,6 +10,7 @@
     "description": "Con Nairda podemos programar de forma rápida y fácil tarjetas de desarrollo basadas en Arduino vía bluetooth desde dispositivos Android o IOS. A lo largo de la plática abordaremos el cómo nació el proyecto y cómo a lo largo de los años ha ido creciendo tanto en aspectos técnicos como en objetivos y el equipo de trabajo gracias a distintos momentos y eventos como en su momento lo fue la FePro."
   },
   {
+    "id": "t2",
     "title": "La IA entre nosotros: Aplicaciones cotidianas de Inteligencia artificial",
     "type": "Conferencia",
     "date": "Sep 23, 16:00 PM",
@@ -18,6 +20,7 @@
     "description": "Conoceremos en qué consiste la Inteligencia Artificial y descartaremos algunos mitos en relación a ella. Además, cómo afecta y va a afectar al campo laboral y la importancia de conocerla sin importar nuestra área de trabajo. Por último, sus aplicaciones en la vida cotidiana, en las empresas y en otras áreas del quehacer humano."
   },
   {
+    "id": "t3",
     "title": "Taller Cómo crear aplicaciones web inclusivas con React ",
     "type": "Taller",
     "date": "Sep 23, 16:00 PM",
@@ -27,6 +30,7 @@
     "description": "En este taller aprenderemos cómo crear aplicaciones de una sola página (SPA por sus siglas en inglés), que incluyan principios y recomendaciones de accesibilidad web. Nos enfocaremos en ejemplos prácticos con React que ejemplifiquen cómo hacer que nuestras aplicaciones sean accesibles y comprensibles para la mayor cantidad de usuarios."
   },
   {
+    "id": "t4",
     "title": "Introducción del ecosistema de HUAWEI, Mi Primera APP con HMS",
     "type": "Taller",
     "date": "Sep 24, 10:00 AM",

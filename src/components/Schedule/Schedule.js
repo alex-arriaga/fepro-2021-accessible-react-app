@@ -8,7 +8,7 @@ function Schedule({talks}) {
             <ul className="talks">
                 {talks.map(talk => (
 
-                    <li className="talk">
+                    <li className="talk" key={talk.id}>
                         <div className="row">
                             <div className="col-2">
                                 <img src={talk.image} className="img-fluid" alt=""/>
