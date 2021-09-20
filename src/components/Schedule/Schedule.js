@@ -5,7 +5,7 @@ function Schedule({talks}) {
     return (
         <Fragment>
             <h1 className="mt-2 mb-4">Programa de conferencias</h1>
-            <ul className="talks">
+            <ul className="talks" id="talks">
                 {talks.map(talk => (
 
                     <li className="talk" key={talk.id}>
