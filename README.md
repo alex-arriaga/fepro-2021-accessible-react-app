@@ -12,6 +12,7 @@ comprensibles para la mayor cantidad de usuarios.
 - Instalar algún IDE o editor de código. Recomendados: [WebStorm](https://www.jetbrains.com/webstorm/)
   , [Visual Studio Code](https://code.visualstudio.com/)/
 - (Preferentemente) Instalar [Yarn](https://classic.yarnpkg.com/en/docs/install/#mac-stable)
+- Tener algún navegador moderno como Firefox o Google Chrome
 
 ## Creación de aplicación
 
