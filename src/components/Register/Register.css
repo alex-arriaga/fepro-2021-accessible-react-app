@@ -1,7 +1,22 @@
-.form-register {
-
-}
-
 .form-register .form-label {
     font-weight: bold;
+}
+
+@media (prefers-color-scheme: dark) {
+    h2,
+    .form-register .form-label {
+        color: white;
+    }
+
+    .form-register .text-secondary {
+        color: white !important;
+    }
+
+    .form-register {
+        background: #343a40;
+    }
+
+    .talk-title:hover {
+        color: white;
+    }
 }

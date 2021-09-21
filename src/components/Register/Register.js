@@ -5,7 +5,7 @@ function Register() {
     return (
         <Fragment>
             <h2 className="mt-3 mb-4">Registro</h2>
-            <form action="" className="form-register">
+            <form action="" className="form-register p-3">
                 <div className="mb-3">
                     <label htmlFor="fullName" className="form-label">Nombre completo</label>
                     <input type="name" className="form-control" name="fullName" id="fullName"

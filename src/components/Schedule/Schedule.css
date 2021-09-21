@@ -28,3 +28,18 @@
     color: white;
     font-weight: bold;
 }
+
+@media (prefers-color-scheme: dark) {
+    .talk {
+        background: #343a40;
+        box-shadow: 0 10px 20px 0 rgba(125, 128, 128, 0.1);
+    }
+
+    .talk, .talk-title {
+        color: white;
+    }
+
+    .talk-title:hover {
+        color: white;
+    }
+}
