@@ -6,7 +6,9 @@ principios y recomendaciones de accesibilidad web.
 Nos enfocaremos en ejemplos prácticos con React que ejemplifiquen cómo hacer que nuestras aplicaciones sean accesibles y
 comprensibles para la mayor cantidad de usuarios.
 
-Demo usando [Vercel](https://vercel.com/), [https://fepro-2021-accessible-react-app.vercel.app/](https://fepro-2021-accessible-react-app.vercel.app/).
+- Demo usando [Vercel](https://vercel.com/)
+  - [https://fepro-2021-accessible-react-app.vercel.app/](https://fepro-2021-accessible-react-app.vercel.app/)
+- [Diapositivas del taller](https://github.com/alex-arriaga/fepro-2021-accessible-react-app/blob/main/slides/A.Arriaga-Inclusive-Applications-with-React.pdf)
 
 ## Pre-requisitos
 
