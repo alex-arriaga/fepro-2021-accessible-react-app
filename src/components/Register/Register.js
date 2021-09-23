@@ -20,16 +20,17 @@ function Register() {
                 </div>
                 <div className="mb-3">
                     <label htmlFor="password" className="form-label">Contraseña</label>
+                    <div className="visually-hidden">La contraseña debe contener al menos 4 dígitos</div>
                     <input type="password" className="form-control" name="password" id="password"
                            required pattern="[0-9]+" minLength="4"
-                           placeholder="Ingrese una contraseña"/>
+                           placeholder="Ingrese una contraseña. La contraseña debe contener al menos 4 dígitos"/>
                     <p className="text-secondary mt-2">La contraseña debe contener al menos 4 dígitos</p>
                 </div>
                 <div className="mb-3">
                     <label htmlFor="confirmPassword" className="form-label">Confirmar contraseña</label>
                     <input type="password" className="form-control" name="confirmPassword" id="confirmPassword"
                            required pattern="[0-9]+" minLength="4"
-                           placeholder="Confirme su contraseña"/>
+                           placeholder="Confirme su contraseña. Debe ser la misma contraseña que el campo anterior"/>
                 </div>
                 <div className="mb-3">
                     <button className="btn btn-secondary" type="submit">Enviar</button>
