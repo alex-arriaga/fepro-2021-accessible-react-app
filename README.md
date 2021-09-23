@@ -49,12 +49,32 @@ yarn start
 
 Y ahora estamos listos para visitar: [http://localhost:3000](http://localhost:3000).
 
+## Conceptos
+
+- [Introduction to Web Accessibility](https://webaim.org/intro/)
+- [Designing for Screen Reader Compatibility](https://webaim.org/techniques/screenreader/)
+- [Web Content Accessibility Guidelines](https://webaim.org/standards/wcag/)
+- [Making the Web Accessible](https://www.w3.org/WAI/)
+
+## Explicaciones prácticas
+- [WebAIM's WCAG 2 Checklist](https://webaim.org/standards/wcag/checklist)
+- [Section 508 Checklist (USA)](https://webaim.org/standards/508/checklist)
+
 ## Auditoría de Accessibilidad
 
 Instalar extensión Axe
 
 - [Firefox: Axe Dev Tools](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/)
 - [Chrome: Axe Dev Tools](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=en-US)
+
+## Simulación de discapacidades visuales
+
+- [NoCoffee for Firefox](https://addons.mozilla.org/en-US/firefox/addon/nocoffee/)
+
+## ARIA (Accessible Rich Internet Applications)
+- [Introduction to ARIA - Accessible Rich Internet Applications](https://webaim.org/techniques/aria/)
+- [An overview of accessible web applications and widgets](https://developer.mozilla.org/en-US/docs/Web/Accessibility/An_overview_of_accessible_web_applications_and_widgets#aria)
+- [Using ARIA](https://w3c.github.io/using-aria/)
 
 ----
 
