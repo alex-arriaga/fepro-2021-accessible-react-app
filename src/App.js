@@ -8,9 +8,11 @@ function App() {
     return (
         <div className="App container mt-4">
             <header>
+                <h1>¡Vamos a crear una verdadera Web inclusiva!</h1>
+                <h2 className="mt-4 mb-3">Empezando por nuestros proyectos...</h2>
                 <Search/>
             </header>
-            <main id="content">
+            <main id="content" className="mt-4">
                 <Schedule talks={talks}/>
                 <Register/>
                 <RegisterSpectrum/>
