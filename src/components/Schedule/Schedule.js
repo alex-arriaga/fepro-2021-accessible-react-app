@@ -17,7 +17,7 @@ function Schedule({talks}) {
                             <span className="talk-date">
                                 {talk.date}
                             </span>
-                                <a href="#"><h2 className="mt-3 talk-title">{talk.title}</h2></a>
+                                <a href={talk.url}><h2 className="mt-3 talk-title">{talk.title}</h2></a>
                                 <p className="mb-0">{talk.description}</p>
                             </div>
                         </div>

@@ -7,6 +7,7 @@
     "place": "Sala Principal",
     "image": "/talks/default-sm.png",
     "speaker": "Adrián Alvarez Galicia",
+    "url": "https://example.com",
     "description": "Con Nairda podemos programar de forma rápida y fácil tarjetas de desarrollo basadas en Arduino vía bluetooth desde dispositivos Android o IOS. A lo largo de la plática abordaremos el cómo nació el proyecto y cómo a lo largo de los años ha ido creciendo tanto en aspectos técnicos como en objetivos y el equipo de trabajo gracias a distintos momentos y eventos como en su momento lo fue la FePro."
   },
   {
@@ -17,6 +18,7 @@
     "place": "Sala Principal",
     "image": "/talks/default-sm.png",
     "speaker": "Dr. Nicolás Arrioja",
+    "url": "https://example.com",
     "description": "Conoceremos en qué consiste la Inteligencia Artificial y descartaremos algunos mitos en relación a ella. Además, cómo afecta y va a afectar al campo laboral y la importancia de conocerla sin importar nuestra área de trabajo. Por último, sus aplicaciones en la vida cotidiana, en las empresas y en otras áreas del quehacer humano."
   },
   {
@@ -27,6 +29,7 @@
     "place": "Sala 1",
     "image": "/talks/default-sm.png",
     "speaker": "Alex Arriaga",
+    "url": "https://example.com",
     "description": "En este taller aprenderemos cómo crear aplicaciones de una sola página (SPA por sus siglas en inglés), que incluyan principios y recomendaciones de accesibilidad web. Nos enfocaremos en ejemplos prácticos con React que ejemplifiquen cómo hacer que nuestras aplicaciones sean accesibles y comprensibles para la mayor cantidad de usuarios."
   },
   {
@@ -37,6 +40,7 @@
     "place": "Sala 2",
     "image": "/talks/default-sm.png",
     "speaker": "Alex Arriaga",
+    "url": "https://example.com",
     "description": "Huawei Mobile Services (HMS Core) ofrece una amplia gama de capacidades abiertas de dispositivos y de nube, que permiten un desarrollo eficiente, un rápido crecimiento y una monetización flexible. Gracias a esto, los desarrolladores de todo el mundo pueden generar innovaciones revolucionarias."
   }
 ]
